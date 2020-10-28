@@ -1,0 +1,9 @@
+Development Log: Assignment 2
+Name: Rebecca Carroll
+
+October 22: Set up files. Set up CLion and makefile. I can't seem to get it to generate the makefile AND get it to run gcc. Set up makefile, tested it and now creating Dynamic.cpp
+October 27: Set up GitHub repo. Set up file I/O with input text files and implemented LCS method.
+
+Questions 
+1. I need to ask: If this isn't very OOP with the .h file. Will I lose points?
+2. Two directories are named in linprog.
